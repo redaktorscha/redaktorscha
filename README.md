@@ -57,3 +57,9 @@ My name is Maria (Masha), and I'm a beginner frontend developer.
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+
+--- 
+
+## Achivements
+[![codewars badge](https://www.codewars.com/users/redaktorscha/badges/large)](https://www.codewars.com/users/redaktorscha)   
+[![LeetCode badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fredaktorscha&logo=leetcode&logoColor=yellow)](https://leetcode.com/redaktorscha/)
