@@ -4,7 +4,7 @@
 ## About me
 Hello, world 😺
 My name is Maria (Masha), and I'm a beginner frontend developer.
-- 👩‍🎓 [Hexlet student](https://ru.hexlet.io/my)
+- 👩‍🎓 [Hexlet student](https://cv.hexlet.io/resumes/1351)
 - 👩‍💻 Junior  Frontend developer
 - ❤️ JS/Node.js 
 - 🐧 Ubuntu fan
