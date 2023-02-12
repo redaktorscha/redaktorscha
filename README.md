@@ -3,11 +3,12 @@
 
 ## About me
 Hello, world 😺
-My name is Maria (Masha), and I'm a beginner frontend developer.
+My name is Maria (Masha), and I'm a frontend developer.
 - 👩‍🎓 [Hexlet student](https://cv.hexlet.io/resumes/1351)
-- 👩‍💻 Junior  Frontend developer
-- ❤️ JS/Node.js 
+- 👩‍💻 Junior Frontend developer with work experience in a startup company
+- 🥰 JS/Node.js 
 - 🐧 Ubuntu fan
+- Geek @ ❤️
 
 ---
 
@@ -16,7 +17,7 @@ My name is Maria (Masha), and I'm a beginner frontend developer.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=redaktorscha&theme=radical" alt="redaktorscha's GitHub Stats">      
+      <img src="https://github-readme-stats.vercel.app/api?username=redaktorscha&theme=radical&show_icons=true&count_private=true" alt="redaktorscha's GitHub Stats">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redaktorscha&theme=radical" alt="redaktorscha's Top Languages Stats">
@@ -29,36 +30,64 @@ My name is Maria (Masha), and I'm a beginner frontend developer.
 
 ## Contact me:
 
-- [📧 Email](mailto:nasonkina@yandex.ru) 
-- [✈️ Telegram](https://t.me/redaktorscha)
-- [🖇️ LinkedIn](https://www.linkedin.com/in/maria-nasonkina-b4a9501a2)
-- [💬 Facebook](https://fb.com/100001487273896)
+[![Email](https://img.shields.io/badge/-%20email-pink?style=for-the-badge)](mailto:nasonkina@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/redaktorscha)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-nasonkina-b4a9501a2)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/100001487273896)
 
 ---
 
-
 ## My tech stack:
+<div style="margin-top:1rem;display:flex;flex-direction:column;">
+  <div style="margin-top:1rem;">
+    <img alt="JavaScript" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+    <img alt="NodeJS" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
+    <img alt="TypeScript" height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178c6" />
+    <img alt="Webpack" height="32" width="32" src="https://cdn.simpleicons.org/webpack/75afcc" />
+    <img alt="Create React App" height="32" width="32" src="https://cdn.simpleicons.org/createreactapp" />
+    <p>JavaScript, NodeJS, TypeScript, Webpack, CRA (& Parcel JS)</p>
+  </div>
+  <div style="margin-top:1rem;">
+    <img alt="React" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/react" />
+    <img alt="React Router" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" />
+    <img alt="Redux" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/redux" />
+    <p>React, React Router, Redux Toolkit</p>
+  </div>
+  <div style="margin-top:1rem;">
+    <img alt="Figma" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/figma" />
+    <img alt="Gimp" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/gimp" />
+    <p>Figma, Gimp</p>
+  </div>
+  <div style="margin-top:1rem;">
+    <img alt="HTML5" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+    <img alt="CSS3" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+    <img alt="SASS" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/sass" />
+    <img alt="Chakra UI" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/chakraui" />
+    <img alt="Bootstrap" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
+    <p>HTML5, CSS3, SASS, Chakra UI, Bootstrap (React Bootstrap)</p>
+  </div>
+  <div style="margin-top:1rem;">
+    <img alt="ESLint" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/eslint" />
+    <img alt="Jest" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/jest" />
+    <img alt="Testing Library" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/testinglibrary" />
+    <img alt="Playwright" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/playwright" />
+    <p>ESLint, Jest, Testing Library, Playwright</p>
+  </div>
+  <div style="margin-top:1rem;">
+    <img alt="Git" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/git" />
+    <img alt="GitHub Actions" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/githubactions" />
+    <img alt="Docker" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+    <p>Git, GitHub Actions, Docker</p>
+  </div>
+  <div style="margin-top:1rem;">
+    <img alt="Nginx" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/nginx" />
+    <img alt="Ubuntu" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
+    <img alt="Firebase" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
+    <p>Nginx, Ubuntu, Firebase</p>
+  </div>
+</div>
 
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-- ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-- ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-- ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### Currently learning:
-
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-
---- 
+---
 
 ## Achivements
 [![codewars badge](https://www.codewars.com/users/redaktorscha/badges/large)](https://www.codewars.com/users/redaktorscha)   
