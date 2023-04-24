@@ -17,10 +17,10 @@ My name is Maria (Masha), and I'm a frontend developer.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=redaktorscha&theme=radical&show_icons=true&count_private=true" alt="redaktorscha's GitHub Stats">
+      <img src="https://gh-readme-stats-red.vercel.app/api?username=redaktorscha&theme=radical&show_icons=true&count_private=true" alt="redaktorscha's GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redaktorscha&theme=radical" alt="redaktorscha's Top Languages Stats">
+      <img src="https://gh-readme-stats-red.vercel.app/api/top-langs/?username=redaktorscha&theme=radical" alt="redaktorscha's Top Languages Stats">
     </td>
   </tr>
 </table>
