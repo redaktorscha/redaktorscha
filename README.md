@@ -45,7 +45,8 @@ My name is Maria (Masha), and I'm a frontend developer.
     <img alt="TypeScript" height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178c6" />
     <img alt="Webpack" height="32" width="32" src="https://cdn.simpleicons.org/webpack/75afcc" />
     <img alt="Create React App" height="32" width="32" src="https://cdn.simpleicons.org/createreactapp" />
-    <p>JavaScript, NodeJS, TypeScript, Webpack, CRA (& Parcel JS)</p>
+    <img alt="Next.js" height="32" width="32" src="https://cdn.simpleicons.org/next.js" />
+    <p>JavaScript, NodeJS, TypeScript, Webpack, CRA (& Parcel JS), Next.js</p>
   </div>
   <div style="margin-top:1rem;">
     <img alt="React" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/react" />
