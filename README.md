@@ -42,10 +42,10 @@ My name is Maria (Masha), and I'm a frontend developer.
   <div style="margin-top:1rem;">
     <img alt="JavaScript" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
     <img alt="NodeJS" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
-    <img alt="TypeScript" height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178c6" />
-    <img alt="Webpack" height="32" width="32" src="https://cdn.simpleicons.org/webpack/75afcc" />
-    <img alt="Create React App" height="32" width="32" src="https://cdn.simpleicons.org/createreactapp" />
-    <img alt="Next.js" height="32" width="32" src="https://cdn.simpleicons.org/next.js" />
+    <img alt="TypeScript" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178c6" />
+    <img alt="Webpack" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/webpack/75afcc" />
+    <img alt="Create React App" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/createreactapp" />
+    <img alt="Next.js" height="32" width="32" style="background-color:#FFF;margin-right:0.5rem;" src="https://cdn.simpleicons.org/next.js/" />
     <p>JavaScript, NodeJS, TypeScript, Webpack, CRA (& Parcel JS), Next.js</p>
   </div>
   <div style="margin-top:1rem;">
