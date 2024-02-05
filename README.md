@@ -8,7 +8,7 @@ My name is Maria (Masha), and I'm a frontend developer.
 - 👩‍💻 Junior Frontend developer with work experience in a startup company
 - 🥰 JS/Node.js 
 - 🐧 Ubuntu fan
-- Geek @ ❤️
+- Geek @ ❤️ 
 
 ---
 
