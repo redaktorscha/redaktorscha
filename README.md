@@ -4,11 +4,12 @@
 ## About me
 Hello, world 😺
 My name is Maria (Masha), and I'm a frontend developer.
+- 🦆 [Yandex intern](https://ya.ru/)
 - 👩‍🎓 [Hexlet student](https://cv.hexlet.io/resumes/1351)
-- 👩‍💻 Junior Frontend developer with work experience in a startup company
-- 🥰 JS/Node.js 
+- 👩‍💻 Frontend developer (Startup & Big Tech experience)
+- 🥰 JS/Node.js
 - 🐧 Ubuntu fan
-- Geek @ ❤️ 
+- Geek @ ❤️
 
 ---
 
@@ -52,7 +53,8 @@ My name is Maria (Masha), and I'm a frontend developer.
     <img alt="React" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/react" />
     <img alt="React Router" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" />
     <img alt="Redux" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/redux" />
-    <p>React, React Router, Redux Toolkit</p>
+    <img alt="Lit.js" height="32" width="32" style="margin-right:0.5rem;" src="https://cdn.simpleicons.org/lit/" />
+    <p>React, React Router, Redux Toolkit, Lit.js (Polymer, Web Components)</p>
   </div>
   <div style="margin-top:1rem;">
     <img alt="Figma" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/figma" />
@@ -72,7 +74,9 @@ My name is Maria (Masha), and I'm a frontend developer.
     <img alt="Jest" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/jest" />
     <img alt="Testing Library" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/testinglibrary" />
     <img alt="Playwright" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/playwright" />
-    <p>ESLint, Jest, Testing Library, Playwright</p>
+    <img alt="Mocha" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/mocha" />
+    <img alt="Chai" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/chai" />
+    <p>ESLint, Jest, Testing Library, Playwright, Mocha, Chai</p>
   </div>
   <div style="margin-top:1rem;">
     <img alt="Git" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/git" />
