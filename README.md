@@ -7,7 +7,7 @@ My name is Maria (Masha), and I'm a frontend developer.
 - 🦆 [Yandex ex-intern](https://ya.ru/)
 - 👩‍🎓 [Hexlet ex-student](https://cv.hexlet.io/resumes/1351)
 - 👩‍💻 Frontend developer
-- 🥰 TS/JS/Node.js
+- 🥰 TS/JS/Node.js/React
 - 🐧 Ubuntu fan
 - Geek @ ❤️
 
