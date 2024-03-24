@@ -4,7 +4,7 @@
 ## About me
 Hello, world 😺
 My name is Maria (Masha), and I'm a frontend developer.
-- 👩‍💻 Frontend developer
+- 👩🏼‍💻 Frontend developer
 - 🥰 TS/JS/Node.js/React
 - 🐧 Ubuntu fan
 - Geek @ ❤️
