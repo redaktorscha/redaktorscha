@@ -44,22 +44,24 @@ My name is Maria (Masha), and I'm a frontend developer.
     <img alt="JavaScript" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
     <img alt="NodeJS" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
     <img alt="TypeScript" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178c6" />
-    <img alt="Webpack" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/webpack/75afcc" />
-    <img alt="Create React App" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/createreactapp" />
-    <img alt="Next.js" height="32" width="32" style="background-color:#FFF;margin-right:0.5rem;" src="https://cdn.simpleicons.org/next.js/" />
-    <p>JavaScript, NodeJS, TypeScript, Webpack, CRA (& Parcel JS), Next.js</p>
+    <img alt="Dart" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/dart" />
+    <p>JavaScript, NodeJS, TypeScript, Dart</p>
   </div>
   <div style="margin-top:1rem;">
     <img alt="React" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/react" />
     <img alt="React Router" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" />
     <img alt="Redux" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/redux" />
     <img alt="Lit.js" height="32" width="32" style="margin-right:0.5rem;" src="https://cdn.simpleicons.org/lit/" />
-    <p>React, React Router, Redux Toolkit, Lit.js (Polymer, Web Components)</p>
+    <img alt="Next.js" height="32" width="32" style="background-color:#FFF;margin-right:0.5rem;" src="https://cdn.simpleicons.org/next.js/" />
+    <img alt="Vue" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/vue.js" />
+    <img alt="Nuxt" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/nuxt.js" />
+    <p>React, React Router, Redux Toolkit, Lit.js (Polymer, Web Components), Next.js, Vue.js, Nuxt.js</p>
   </div>
   <div style="margin-top:1rem;">
     <img alt="Figma" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/figma" />
     <img alt="Gimp" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/gimp" />
-    <p>Figma, Gimp</p>
+    <img alt="Webpack" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/webpack/75afcc" />
+    <p>Figma, Gimp, Webpack</p>
   </div>
   <div style="margin-top:1rem;">
     <img alt="HTML5" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/html5" />
