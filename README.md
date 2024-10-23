@@ -45,14 +45,15 @@ My name is Maria (Masha), and I'm a frontend developer.
     <img alt="NodeJS" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
     <img alt="TypeScript" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178c6" />
     <img alt="Dart" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/dart" />
-    <p>JavaScript, NodeJS, TypeScript, Dart</p>
+        <img alt="Dart" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
+    <p>JavaScript, NodeJS, TypeScript, Dart, Flutter</p>
   </div>
   <div style="margin-top:1rem;">
     <img alt="React" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/react" />
     <img alt="React Router" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" />
     <img alt="Redux" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/redux" />
-    <img alt="Lit.js" height="32" width="32" style="margin-right:0.5rem;" src="https://cdn.simpleicons.org/lit/" />
-    <img alt="Next.js" height="32" width="32" style="background-color:#FFF;margin-right:0.5rem;" src="https://cdn.simpleicons.org/next.js/" />
+    <img alt="Lit.js" height="32" width="32" style="margin-right:0.5rem;" src="https://cdn.simpleicons.org/lit" />
+    <img alt="Next.js" height="32" width="32" style="background-color:#FFF;margin-right:0.5rem;" src="https://cdn.simpleicons.org/next.js" />
     <img alt="Vue" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/vue.js" />
     <img alt="Nuxt" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/nuxt.js" />
     <p>React, React Router, Redux Toolkit, Lit.js (Polymer, Web Components), Next.js, Vue.js, Nuxt.js</p>
@@ -74,11 +75,10 @@ My name is Maria (Masha), and I'm a frontend developer.
   <div style="margin-top:1rem;">
     <img alt="ESLint" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/eslint" />
     <img alt="Jest" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/jest" />
-    <img alt="Testing Library" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/testinglibrary" />
-    <img alt="Playwright" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/playwright" />
+    <img alt="Testing Library" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/testinglibrary" />    
     <img alt="Mocha" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/mocha" />
     <img alt="Chai" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/chai" />
-    <p>ESLint, Jest, Testing Library, Playwright, Mocha, Chai</p>
+    <p>ESLint, Jest, Testing Library, Mocha, Chai, Playwright</p>
   </div>
   <div style="margin-top:1rem;">
     <img alt="Git" style="margin-right:0.5rem;" height="32" width="32" src="https://cdn.simpleicons.org/git" />
